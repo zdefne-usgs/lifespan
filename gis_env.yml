@@ -1,0 +1,9 @@
+name: gis
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - folium
+  - owslib
+  - jupyterlab 
